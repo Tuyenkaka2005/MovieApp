@@ -5,7 +5,7 @@
 <img width="200"  alt="f444d87a-38b9-4bb5-9e22-f011b9d98244" src="https://github.com/user-attachments/assets/dc537f47-e7d0-47c6-8173-7d541f4709c0" />
 
 Cấu trúc Thư mục (Folder Structure)
-``\
+
 MovieApp/
 │
 ├── Models/
